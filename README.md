@@ -14,8 +14,8 @@ PortOrganizer es una herramienta diseñada para escanear imágenes, extraer núm
 Para usar este programa, asegúrate de tener lo siguiente instalado:
 
 - Python 3.8 o superior
-- OpenCV (pip install opencv-python)
-- PyTesseract (pip install pytesseract)
+- OpenCV
+- PyTesseract
 - Tesseract OCR instalado en tu sistema ([descargar aquí](https://github.com/tesseract-ocr/tesseract))
 
 ## Instalación
